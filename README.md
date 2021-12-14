@@ -62,7 +62,7 @@ $ git clone https://github.com/GUPTA-SHAKEL/Old-ID-Cracker.git
 ```python2
 $ cd Old-ID-Cracker
 $ git pull
-$ python2 mark-Dump.py
+$ python2 New.py
 ```
 #### :closed_lock_with_key: KEY PASSWORD ⁉️
 
